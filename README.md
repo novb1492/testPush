@@ -6,3 +6,8 @@ git remote remove 별명
 
 git clone https://github.com/novb1492/저장소이름.git . or 폴더이름  
 -.이면 현재 위치 내려받기 폴더이름지정시 생성후 넣어줌  
+
+git pull  
+-집/회사등 여러군데 에서 작업할때  
+pull을 땡겨오고 작업하면된다  
+이걸 이제 알았네  
