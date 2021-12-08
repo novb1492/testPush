@@ -11,3 +11,6 @@ git pull
 -집/회사등 여러군데 에서 작업할때  
 pull을 땡겨오고 작업하면된다  
 이걸 이제 알았네  
+
+git clone -b firstdoor https://github.com/novb1492/projectj homebranch  
+브랜치 땡겨오는법
